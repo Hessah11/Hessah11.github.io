@@ -13,4 +13,4 @@ Currently at Leeds I am studying the following modules:
 
 * GEOG5022M	Professional & Personal Development
 * GEOG5032M	GIS Data Visualisation & Analysis
-* GEOG5990M	Programming for Geographical Information Analysis: Core Skills
+* [GEOG5990M	Programming for Geographical Information Analysis: Core Skills](Hessah11.github.io/geog5990m)
