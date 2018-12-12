@@ -12,4 +12,6 @@ The code created has the following characteristics:
   * Makes agents interact with the environment in a random order.
   * Gets the agents to share resources.
   * Animates the agents interactions within a GUI.
+  
+Click [here]() to view the code for the created agent-based model on Github.
 
