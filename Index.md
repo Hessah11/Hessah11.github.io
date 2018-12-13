@@ -1,4 +1,5 @@
-## About me
+##Welcome to my portfolio page
+### About me
 
 My name is Hessah. I graduated in 2008 with a degree in Geography from Riydah University for womwem, Saudi Arabia. I am currently
 studying Master of science in GIs at University of Leeds.
@@ -7,7 +8,7 @@ skills and experience in programming as python which made me more confident in u
 
 [CV](Hessah11.github.io/cv)
 
-## Current Modules
+### Current Semester Modules
 
 Currently at Leeds I am studying the following modules:
 
