@@ -13,5 +13,5 @@ The code created has the following characteristics:
   * Gets the agents to share resources.
   * Animates the agents interactions within a GUI.
   
-Click [here](https://) to view the code for the created agent-based model on Github.
+Click [here](https://) to view the code for the created agent-based model on Github and click [here](https://github.com/Hessah11/Hessah11.github.io) to view the code used to create the portfolio pages. 
 
