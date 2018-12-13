@@ -7,7 +7,7 @@ This potfolio was created as part of the requirements of Assessment 1 in Program
 * Information about the module
 * Information about the Assessment 1 task
 
-This portfolio was created using mark down and HTML.
+This portfolio was created using Markdown and HTML.
 
 ***
 
