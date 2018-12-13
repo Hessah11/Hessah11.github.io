@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to my portfolio page
 description: A short description of your site's purpose
-url: https://Hessah11.github.io/Index
+url: https://Hessah11.github.io/
+show_downloads: true
