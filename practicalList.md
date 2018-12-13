@@ -1,6 +1,6 @@
 ## List of practicals
 
-In this module there were 9 practical sessions as follows:
+In this module there were 9 practical sessions for which the code has been posted on GitHUB and are as follows:
 
 1. [Data variables](https://github.com/Hessah11/GEOG5990/tree/master/Practicals/1_Data_Variables)
 2. [Code shrinking I](https://github.com/Hessah11/GEOG5990/tree/master/Practicals/2_Code_shrinking_I)
