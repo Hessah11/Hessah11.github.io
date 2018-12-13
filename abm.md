@@ -13,7 +13,7 @@ The code created has the following characteristics:
   * Gets the agents to share resources.
   * Animates the agents interactions within a GUI.
   
-The agent-based model and portfolio website are created with [GPL-3.0 license](https://github.com/Hessah11/GEOG5990/tree/master/LICENSE) [GPL-3.0 license](https://github.com/Hessah11/Hessah11.github.io/tree/master/LICENSE) and the code files can be found by clicking on the below links:
+The agent-based model and portfolio website are created with [GPL-3.0 license](https://github.com/Hessah11/GEOG5990/tree/master/LICENSE) and the code files can be found by clicking on the below links:
 
 Click [here](https://github.com/Hessah11/GEOG5990/tree/master/Final Agent-Based Model) to view the code for the created agent-based model on Github and click [here](https://github.com/Hessah11/Hessah11.github.io) to view the code used to create the portfolio pages. 
 
