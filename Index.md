@@ -18,7 +18,7 @@ studying Master of science in GIs at University of Leeds.
 Before coming to Leeds my knowledge in computer was using the operator system , during this cours I have leaned and gained new
 skills and experience in programming as python which made me more confident in using softwares through my studying.
 
-[CV](Hessah11.github.io/cv)
+[Simple CV](Hessah11.github.io/cv)
 
 ### Current Semester Modules
 
