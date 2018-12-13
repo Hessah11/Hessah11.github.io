@@ -1,4 +1,16 @@
 ## Welcome to my portfolio page
+
+### About this portfolio
+
+This potfolio was created as part of the requirements of Assessment 1 in Programming for GIS module. It includes the following information:
+* Bibliographic section (about me)
+* Information about the module
+* Information about the Assessment 1 task
+
+This portfolio was created using mark down and HTML.
+
+***
+
 ### About me
 
 My name is Hessah. I graduated in 2008 with a degree in Geography from Riydah University for womwem, Saudi Arabia. I am currently
