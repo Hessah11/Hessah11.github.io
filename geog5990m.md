@@ -5,4 +5,4 @@ a project using iterative approach. The module manager is currently Andy Turner.
 
 ### Projects
 
-* [Assignment 1: Agent Based Modelling](Hessah11.github.io/abm)
+* [Assignment 1: Agent Based Modelling](https://Hessah11.github.io/abm)
